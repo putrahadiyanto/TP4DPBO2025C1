@@ -35,4 +35,4 @@ Apabila user memilih salah satu data mahasiswa di tabel mahasiswa, maka form mah
 Sama seperti dengan Update, user dapat memilih salah satu data mahasiswa di tabel mahasiswa. Kemudian, user dapat menekan tombol `Delete` dan lakukan konfirmasi ulang di popup delete, maka data akan dihapus dari list.
 
 # Dokumentasi
-[![Video Dokumentasi](thumbnail.png)](documentation/vidDokumentasi.mp4)
+[[![Video Dokumentasi](thumbnail.png)](documentation/vidDokumentasi.mp4)](https://raw.githubusercontent.com/putrahadiyanto/TP4DPBO2025C1/refs/heads/main/documentation/vidDokumentasi.mp4)
